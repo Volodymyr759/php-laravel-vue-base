@@ -2,7 +2,7 @@
 
 ## PHP Laravel API - project
 
-Backend api for Vue - client application.
+Backend api for Vue - client application (project 'php-laravel-vue-base-client').
 
 ## Includes:
 
